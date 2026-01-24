@@ -1,0 +1,22 @@
+     Deathclaw Corn Dogs And More, or D.C.D.A.M. for short, adds 65 new craft-able food items to Fallout 4.  It also adds two new workshop-created objects for settlements, including a special cooking stove for the top-tier items.  Most items are custom textures on existing meshes.  Makes use of fresh, wild, and basic ingredients.  All DLC are needed.
+
+     This mod adds custom products to the crafting menus of common cooking stations, under BEVERAGE, ROAST, and UTILITY.  The UTILITY section is where you'll find crafting recipes for common ingredients, such as corn oil (Cooking Oil, which BTW is a JUNK item that can be scrapped for oil), corn sugar, cans of prepared raw egg, etc.
+
+     I tried to use some realism when coming up with quantities of things made from crafting the items, as well as the ingredients.  Using an animal's egg, such as from a radscorpion or deathclaw, makes a lot of cans of raw egg, and one can of raw egg is about a chicken egg or two's worth of egg for the food items.  But look at the size of a deathclaw or mirelurk's egg!  Those things are HUGE, far larger than the size of a chicken's egg, seriously.  (Unless you're playing Skyrim, where chicken eggs are gigantic as well.  Dude, I feel sorry for a chicken that must have HURT to lay an egg like that!)
+
+     Oh, and I have a little confession - I didn't do my homework on how corn oil is made from corn, or corn sugar for that matter.  IIRC you will need purified water and some kind of corn in my mod.
+
+     On the technical side, this mod adds new food items (that the game's Creation Kit calls "potions" and the game calls "aid") and crafting recipes for 65 food items and-or ingredients, and it also adds to certain "leveled lists" as the game's internal engine calls it.  What this means is if you install this mod and don't have anything overwritten from other mods and your mod loading order, you'll find in gameplay that merchants have some, but not all, of the new items and cooking ingredients, and random loot will also sometimes include these things as well.
+     If you happen to overwrite the changes to the leveled lists from running other mods with this one, don't worry, the mod will still function, you'll just find that merchants and random loot might not have any new stuff.
+     If you don't understand all this technical stuff, and don't want to bother with how it works, than don't.  Just download and try out the mod, and if you like it, keep it.  If not, blast it to oblivion and then some from your hard drive.
+
+     Oh, and a few recipes use brewed coffee as an ingredient.  Yes, people do cook and bake with coffee, and sometimes fresh coffee grounds, in real life.  Look it up!  Myself, I've cooked cornbread and pancakes in my kitchen of my old apartment I used to have, plenty of times.  I gave the food nicknames, such as "buzz cakes."
+
+     Certain effects of some foods, like the coffee, can accumulate if consumed at the same time as other things that do the same stuff.  You have been warned.  There are two flavors of coffee in this mod, as well as what I nicknamed "afterburners."
+
+     Aside from the cooking stove, found in the CRAFTING section of the build menu with workshops, if you go to the RESOURCES section and then MISCELLANEOUS, you'll find a settler hobby printer for computers.  When built in settlements, it isn't usable, but it boosts happiness for each one built.  Specifically, it boosts what the game calls bonus happiness.  Its hard to construct though, as it requires a lot of components, and instead of using the settlement's electricity its nuclear powered and requires both fusion cells and nuclear material, among other resources.
+
+     As far as XBOX stuff goes, I am very sorry but I do not have an XBOX so I don't know how to test or deploy a Fallout 4 mod for XBOX.  This mod was written for the PC.
+
+Other mods and projects:
+     Right now I have no other mods I'm publishing for any game, but I'm an indie game developer and have been working on my own PC game called Peter Zyckman's Quest for over two years now.  Google it if you want to find out more, and download a free demo copy if you want before considering buying the full version if you like it.  (It isn't like Fallout 4 though.)  If your computer can run Fallout 4, it can run Peter Zyckman's Quest.
