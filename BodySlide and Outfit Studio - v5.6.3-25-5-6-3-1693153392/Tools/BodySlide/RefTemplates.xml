@@ -1,0 +1,11 @@
+<!-- Reference templates are shortcuts to loading a slider set as a reference in Outfit Studio -->
+<RefTemplates>
+	<Template sourcefile="ConversionSets\References.osp" set="CBBE Uniboob" shape="UniBoob-CBBE">Sliders: CBBE Uniboob</Template>
+	<Template sourcefile="ConversionSets\References.osp" set="CBBE Uniboob (no nipples)" shape="NoNip-UniBoob-CBBE">Sliders: CBBE Uniboob (no nipples)</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="VanillaToCBBE" shape="CBBE">Convert: Vanilla To CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="CBBEToVanilla" shape="CBBE">Convert: CBBE To Vanilla</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="SkyrimCBBEToFO4CBBE" shape="CBBE">Convert: Skyrim CBBE To FO4 CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="FO4CBBEToSkyrimCBBE" shape="CBBE">Convert: FO4 CBBE To Skyrim CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="JaneBodyToCBBE" shape="JaneBodHDShapeData">Convert: Jane Bod To CBBE</Template>
+    <Template sourcefile="ConversionSets\References.osp" set="CBBEToJaneBody" shape="JaneBody_CBBE">Convert: CBBE To Jane Bod</Template>
+</RefTemplates>

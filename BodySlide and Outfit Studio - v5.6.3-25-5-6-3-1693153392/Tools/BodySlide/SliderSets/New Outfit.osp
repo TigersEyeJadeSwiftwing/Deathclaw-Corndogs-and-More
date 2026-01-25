@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderSetInfo version="1">
+    <SliderSet name="popcorn plain">
+        <DataFolder>New Outfit</DataFolder>
+        <SourceFile>New Outfit.nif</SourceFile>
+        <OutputPath>meshes\DCDAM\test</OutputPath>
+        <OutputFile GenWeights="false">popcorn plain</OutputFile>
+        <Shape target="Cylinder">Cylinder</Shape>
+    </SliderSet>
+</SliderSetInfo>

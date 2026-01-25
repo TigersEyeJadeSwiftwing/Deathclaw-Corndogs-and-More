@@ -1,0 +1,14 @@
+﻿<OutfitStudioConfig>
+    <OutfitStudioFrame width="1150" height="780" maximized="true" sashpos="2194"></OutfitStudioFrame>
+    <OBJImport_cbInvertU>false</OBJImport_cbInvertU>
+    <OBJImport_cbInvertV>false</OBJImport_cbInvertV>
+    <OBJImport_scale>1.00000</OBJImport_scale>
+    <OBJImport_rotateX>0</OBJImport_rotateX>
+    <OBJImport_rotateY>0</OBJImport_rotateY>
+    <OBJImport_rotateZ>0</OBJImport_rotateZ>
+    <Rendering>
+        <PerspectiveView>true</PerspectiveView></Rendering>
+    <ProjectHistory></ProjectHistory>
+    <LoadReference_chkMergeSliders>false</LoadReference_chkMergeSliders>
+    <LoadReference_chkMergeZaps>true</LoadReference_chkMergeZaps>
+</OutfitStudioConfig>

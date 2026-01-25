@@ -1,0 +1,11 @@
+﻿<BodySlideConfig>
+    <SelectedOutfit>popcorn plain</SelectedOutfit>
+    <SelectedPreset></SelectedPreset>
+    <LastGroupFilter></LastGroupFilter>
+    <LastOutfitFilter></LastOutfitFilter>
+    <BuildMorphs>false</BuildMorphs>
+    <RegexFilterOutfits>false</RegexFilterOutfits>
+    <BodySlideFrame width="800" height="600" maximized="false"></BodySlideFrame>
+    <PreviewFrame width="728" height="728" maximized="false"></PreviewFrame>
+    <ForceBodyNormals>false</ForceBodyNormals>
+</BodySlideConfig>
