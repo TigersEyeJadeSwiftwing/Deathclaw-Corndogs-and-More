@@ -1,0 +1,13 @@
+# You can drag this text file to the BAE window after loading archives.
+# It will automatically select only the filenames that match the filters below.
+# You may use:
+#    - The following symbols: * ^ $
+#         Which are wildcard, start of string, and end of string respectively
+#    - Whole or partial file and folder names e.g. furniture or dlc01
+#         Note: You cannot match full paths e.g textures\dungeons\caves
+
+*_n.dds
+*.png$
+*.lst
+*.btt
+*.lod

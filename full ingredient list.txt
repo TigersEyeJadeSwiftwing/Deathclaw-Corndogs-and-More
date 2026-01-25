@@ -1,0 +1,46 @@
+apple
+bean
+butter
+carrot
+coffee
+corn
+cheese
+egg
+lettuce
+mint chocolate
+meats
+melon
+mutfruit
+nuts
+nut butter
+oil
+onion
+potato
+pepper
+pumpkin
+sugar
+tarberry
+tomato
+water
+wheat
+
+6	coffee
+13	juice
+8	ice cream
+13	soda
+18	canned goods
+25	cakes and bakery
+5	salads
+9	chips
+16	meat and eggs
+6	pizza
+6	popcorn
+12	candy
+7	ingredients
+7	harvestable crops
+-----
+151
+
+cows make 6 to 7 gallons of milk a day
+brahmin make 3x, or 36 to 42 half gallons per day
+Shaun's crib
